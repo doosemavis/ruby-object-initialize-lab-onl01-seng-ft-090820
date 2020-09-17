@@ -1,15 +1,15 @@
 class Person
   
   def initialize("Beyonce")
-    @person = "Beyonce"
+    @name = "Beyonce"
   end 
   
-  def person=(person)
-    @person = person
+  def name=(name)
+    @name = name
   end 
   
-  def person
-    @person
+  def name
+    @name 
   end 
 end 
 
