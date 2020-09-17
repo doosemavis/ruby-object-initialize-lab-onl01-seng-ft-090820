@@ -15,4 +15,3 @@ end
 
 
 beyonce = Person.new("Beyonce")
-beyonce.person 
